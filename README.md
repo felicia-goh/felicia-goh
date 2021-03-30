@@ -7,16 +7,13 @@ I'm an aspiring fullstack web developer and full time geospatial analyst :earth_
 - Javascript ES6
 
 #### My Projects
-*Boss Ali-bah-bah?* :construction_worker:
-
+- :construction_worker: *Boss Ali-bah-bah?*  
 https://boss-ali-bah-bah.herokuapp.com
 
-*Doughpe* :bread:
-
+- :bread: *Doughpe*  
 https://doughpe.herokuapp.com
 
-*Lift Your Spirits* :cocktail:
-
+- :cocktail: *Lift Your Spirits*  
 https://lift-your-spirits.herokuapp.com
 
 #### Languages and Frameworks
