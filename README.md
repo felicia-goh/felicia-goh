@@ -2,21 +2,24 @@
 
 I'm an aspiring fullstack web developer and full time geospatial analyst :earth_asia:
 
-### Currently learning and deepening my skills in...
+#### Currently learning and deepening my skills in...
 - Ruby on Rails
 - Javascript ES6
 
-### My Projects
+#### My Projects
 *Boss Ali-bah-bah?* :construction_worker:
+
 https://boss-ali-bah-bah.herokuapp.com
 
 *Doughpe* :bread:
+
 https://doughpe.herokuapp.com
 
 *Lift Your Spirits* :cocktail:
+
 https://lift-your-spirits.herokuapp.com
 
-### Languages and Frameworks
+#### Languages and Frameworks
 <a href="https://www.ruby-lang.org/en/">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
 </a>
