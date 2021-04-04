@@ -5,6 +5,7 @@ I'm an aspiring fullstack web developer and full time geospatial analyst :earth_
 #### Currently learning and deepening my skills in...
 - Ruby on Rails
 - Javascript ES6
+- ReactJS
 
 #### My Projects
 - :construction_worker: *Boss Ali-bah-bah?*  
