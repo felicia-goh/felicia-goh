@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring fullstack web developer and full time geospatial analyst :earth_asia:
+I'm an aspiring fullstack software engineer!
 
 #### Currently learning and deepening my skills in...
 - Ruby on Rails
